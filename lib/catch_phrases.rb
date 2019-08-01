@@ -16,4 +16,4 @@ mario
 
 toadstool
 
-any_phrase
+any_phrase("fox")
